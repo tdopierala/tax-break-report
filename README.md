@@ -1,6 +1,6 @@
 # Tax break report generator
 
-### Tax Break Script v1.6 (tax-report.py)
+### Tax Break Script (tax-report.py)
 
 ## Usage:
 
